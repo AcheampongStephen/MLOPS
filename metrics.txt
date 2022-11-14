@@ -1,0 +1,2 @@
+Training Variance explained: 33.0%
+Test Variance explained: 32.0%
